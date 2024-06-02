@@ -3,7 +3,7 @@
 This program, named travelMonitor, receives requests from citizens who want to travel to other countries, checks whether they have made the appropriate vaccinations, and approves whether a traveller is allowed to enter a country.  
 In addition, a bash script (create_infiles.sh) was implemented to create directories of countries, which containing text files with relevant citizen records.
 
-### The project contains of two parts and the bash script: ###
+### The project contains two parts and the bash script: ###
 	
 The first part is about the parent process (TravelMonitor) and contains the following: main.cpp, bloomfilter.cpp, bloomfilter.h, hash.cpp, hash.h,helpmain.cpp, helpmain.h, list.cpp, list.h, pipes.cpp, pipes.h, child.cpp, countries.cpp, countires.h child.h and Makefile.
 
